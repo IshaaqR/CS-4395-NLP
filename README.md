@@ -1,7 +1,7 @@
 # CS-4395-NLP
 
 ## Overview
-https://github.com/IshaaqR/CS-4395-NLP/blob/7bf8b37424fa393faaaa1658649b753558163e33/Overview_of_NLP.pdf
+https://github.com/IshaaqR/CS-4395-NLP/blob/main/Overview_of_NLP.pdf
 
 ## Homework 1
 [Homework 1/Homework1_imr180000.py](https://github.com/IshaaqR/CS-4395-NLP/blob/main/Homework%201/Homework1_imr180000.py)
