@@ -11,4 +11,4 @@ https://github.com/IshaaqR/CS-4395-NLP/blob/main/Overview_of_NLP.pdf
 * **What I learned:** While basic text processing functions like split() and capitalize() not new to me, I did experience using regex for the first time myself.
 
 ## Homework 2
-Homework 2/Homework2_imr180000.pdf
+[Homework 2/Homework2_imr180000.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/04db7543544e5bb080f41e378424b2b22f77115b/Homework%202/Homework2_imr180000.pdf)
