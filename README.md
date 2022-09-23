@@ -12,3 +12,6 @@
 
 ## Homework 2
 [Homework 2/Homework2_imr180000.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/04db7543544e5bb080f41e378424b2b22f77115b/Homework%202/Homework2_imr180000.pdf)
+
+## WordNet
+[WordNet/WordNet_imr180000.ipynb](https://github.com/IshaaqR/CS-4395-NLP/blob/34c600c04ef89e5a2585b0eb82ac122d66296f30/WordNet/WordNet_imr180000.ipynb)
