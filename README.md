@@ -17,4 +17,4 @@
 [WordNet/WordNet_imr180000.ipynb](https://github.com/IshaaqR/CS-4395-NLP/blob/34c600c04ef89e5a2585b0eb82ac122d66296f30/WordNet/WordNet_imr180000.ipynb)
 
 ## Guessing Game
-[Guessing Game/Guessing Game.py](https://github.com/IshaaqR/CS-4395-NLP/blob/04812ab57c657e59e547cacbfb7b13ee1abbcae6/Guessing%20Game/Guessing%20Game.py)
+[Guessing Game/GuessingGame_imr180000.py](https://github.com/IshaaqR/CS-4395-NLP/blob/07f01915e70e696a79872a136a8bcbd4e99d18c3/Guessing%20Game/GuessingGame_imr180000.py)
