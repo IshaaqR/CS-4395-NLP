@@ -20,6 +20,6 @@
 [Guessing Game/GuessingGame_imr180000.py](https://github.com/IshaaqR/CS-4395-NLP/blob/07f01915e70e696a79872a136a8bcbd4e99d18c3/Guessing%20Game/GuessingGame_imr180000.py)
 
 ## Ngrams
-[Ngrams/Ngrams.ipynb](https://github.com/IshaaqR/CS-4395-NLP/blob/main/Ngrams/Ngrams.ipynb)
+[Ngrams/Ngrams.ipynb](https://github.com/IshaaqR/CS-4395-NLP/blob/7e43a98d99751c4fc1b10c51edfad6212298d1f2/Ngrams/ngrams.py)
 
-[Ngrams/Narrarative.docx](https://github.com/IshaaqR/CS-4395-NLP/blob/4c415156ad14080ac7d6571eb0982467e5254124/Ngrams/Narrarative.docx)
+[Ngrams/Narrarative.docx](https://github.com/IshaaqR/CS-4395-NLP/blob/7e43a98d99751c4fc1b10c51edfad6212298d1f2/Ngrams/Narrarative.pdf)
