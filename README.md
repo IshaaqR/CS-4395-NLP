@@ -23,3 +23,7 @@
 [Ngrams/Ngrams.ipynb](https://github.com/IshaaqR/CS-4395-NLP/blob/7e43a98d99751c4fc1b10c51edfad6212298d1f2/Ngrams/ngrams.py)
 
 [Ngrams/Narrarative.docx](https://github.com/IshaaqR/CS-4395-NLP/blob/7e43a98d99751c4fc1b10c51edfad6212298d1f2/Ngrams/Narrarative.pdf)
+
+## Web Crawler
+[Web Crawler/Report.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/021da2f7e0c26901d5eaa90b9dfb76491680683b/Web%20Crawler/Report.pdf)
+[Web Crawler/web_crawler.py](https://github.com/IshaaqR/CS-4395-NLP/blob/021da2f7e0c26901d5eaa90b9dfb76491680683b/Web%20Crawler/web_crawler.py)
