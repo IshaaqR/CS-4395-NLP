@@ -26,4 +26,5 @@
 
 ## Web Crawler
 [Web Crawler/Report.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/021da2f7e0c26901d5eaa90b9dfb76491680683b/Web%20Crawler/Report.pdf)
+
 [Web Crawler/web_crawler.py](https://github.com/IshaaqR/CS-4395-NLP/blob/021da2f7e0c26901d5eaa90b9dfb76491680683b/Web%20Crawler/web_crawler.py)
