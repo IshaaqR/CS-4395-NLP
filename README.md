@@ -31,3 +31,6 @@
 
 ## Sentence Parsing
 [Sentence Parsing/Sentence Parsing.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/6ef4a895b1636fabe8909950e97394e83509eba6/Sentence%20Parsing/Sentence%20Parsing.pdf)
+
+## Reading ACL Papers
+[Reading ACL Papers/Reading ACL Papers.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/6fd72903b9f0515288bbc6ceb8179c39d99a54e3/Reading%20ACL%20Papers/Reading%20ACL%20Papers.pdf)
