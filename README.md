@@ -34,3 +34,5 @@
 
 ## Reading ACL Papers
 [Reading ACL Papers/Reading ACL Papers.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/6fd72903b9f0515288bbc6ceb8179c39d99a54e3/Reading%20ACL%20Papers/Reading%20ACL%20Papers.pdf)
+
+## [Author Attribution/Author Attribution.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/944b97df412adb8631deb536351dd8905bc6d750/Author%20Attribution/Author%20Attribution.pdf)
