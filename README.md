@@ -37,3 +37,8 @@
 
 ## Author Attribution
 [Author Attribution/Author Attribution.pdf](https://github.com/IshaaqR/CS-4395-NLP/blob/0ad57141eff646954b3d85cb3558424b20f2910f/Author%20Attribution/Author%20Attribution.pdf)
+
+## Chatbot Project
+The link to use the chatbot is [here](https://bot.dialogflow.com/5357b396-58af-4d2d-9fb9-56c4f0020e9f). Say hello to the bot, and it'll tell you what you can do with it.
+
+Additionally, the code for the project is [here](https://github.com/IshaaqR/CS-4395-NLP/blob/419738977562595837de02ed786d89c1a98341f9/Chatbot%20Project/DemonSlayerBot.zip). It is in the form of a zip file that must be uploaded to Google Dialogflow in order to view. If you want a basic description of how the chatbot works you can check out the [report](https://github.com/IshaaqR/CS-4395-NLP/blob/419738977562595837de02ed786d89c1a98341f9/Chatbot%20Project/Report.pdf) or the knowledge base (which is located in the "Chatbot Project" folder.
