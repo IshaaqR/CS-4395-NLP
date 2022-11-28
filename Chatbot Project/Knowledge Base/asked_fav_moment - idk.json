@@ -1,0 +1,69 @@
+{
+  "id": "2c88c7c8-e5ff-4876-a1d8-8205c92b89de",
+  "name": "asked_fav_moment - idk",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "asked_fav_moment-followup"
+  ],
+  "contexts": [
+    "asked_fav_moment-followup"
+  ],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": "ba56175a-8d2c-4a57-aa97-746f98ab1e21",
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "asked_fav_moment.asked_fav_moment-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "That's fine, there's so many good ones to choose from!"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": "ba56175a-8d2c-4a57-aa97-746f98ab1e21",
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I don't have a favorite character",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "86ee3009-5e51-4b5c-90dd-7895865f2a5e",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I don't know",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "0cbf226b-0f98-4af6-a8fa-8ad0078948da",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

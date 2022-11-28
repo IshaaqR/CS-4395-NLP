@@ -1,0 +1,257 @@
+{
+  "id": "e223e609-a52e-4408-98fa-38ff478077c9",
+  "name": "asked_fav_char - custom - custom",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "asked_fav_char-custom-followup"
+  ],
+  "contexts": [
+    "asked_fav_char-custom-followup"
+  ],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": "fc685274-0bb2-4302-aeac-d355c0d43924",
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "asked_fav_char.asked_fav_char-custom.asked_fav_char-custom-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "x",
+          "dataType": "@sys.person",
+          "isList": false,
+          "required": false,
+          "prompts": [],
+          "value": "$x",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "Haha that's interesting"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": "03cd66e2-c775-45ab-b0f6-938af5ace69f",
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "He",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": "'s really brave and caring",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "349fbe87-b8c1-4b40-9347-1a5d488d4bab",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "nezuko",
+          "userDefined": false,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " is so cute uwu",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "06c791fe-f367-48ff-a0e6-f75dea2ee9fe",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "so cute",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "55edc57f-8bec-4b86-b930-d4104c62ce49",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "very brave",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "ed977629-5327-4381-ab25-1063772d531f",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "like everything about them",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "bbc39f66-db1a-45f9-be7a-568fcd5d8bf0",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "cool outfit",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "86cf098c-9b30-42ef-b366-e70e2da6e7ac",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "so handsome",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "0dd025f9-5348-458b-9504-960ec979def9",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "they",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " are pretty",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "fc9851dd-d32b-474f-8c7b-8d12d2aa409a",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "epic",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "3156215e-6d2e-4807-9521-7e0fee6b5116",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "cool",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "5fd7cd2f-9eae-43c4-80a9-60e82e085684",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "calm",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "501c6b32-4042-4066-aecb-11abcf54dbca",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "funny hilarious",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "84505390-fe4c-41ec-bdfc-97db820222ec",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "beautiful",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "25340bb7-03a0-4207-bde3-6e8919947bf6",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "smart",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "eb097761-5718-415b-a97d-0d94e635aabb",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "strong",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "d04738d8-c441-4d1d-bae7-ce07227eb03a",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

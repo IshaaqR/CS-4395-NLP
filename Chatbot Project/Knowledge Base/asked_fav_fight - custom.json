@@ -1,0 +1,289 @@
+{
+  "id": "b2800427-2fe9-4187-a045-49beced6848d",
+  "name": "asked_fav_fight - custom",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "asked_fav_fight-followup"
+  ],
+  "contexts": [
+    "asked_fav_fight-followup"
+  ],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": "9abd3a9c-9484-4165-bf04-6ffa7a79497e",
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "asked_fav_fight.asked_fav_fight-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "x",
+          "dataType": "@sys.person",
+          "isList": true,
+          "required": false,
+          "prompts": [],
+          "value": "$x",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "That fight was so epic!!"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": "9abd3a9c-9484-4165-bf04-6ffa7a79497e",
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Akaza",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " and ",
+          "userDefined": false
+        },
+        {
+          "text": "Rengoku",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "c08f42c9-74bf-4b8b-a144-072e93b751f9",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "When they fought ",
+          "userDefined": false
+        },
+        {
+          "text": "them",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "e885a826-cef4-4b57-afc7-9cf4e1147746",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "me",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " Versus ",
+          "userDefined": false
+        },
+        {
+          "text": "tanjiro",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "839916c3-fd6d-4b92-b496-54c1bd4d8c9c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "tanjiro",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " VS ",
+          "userDefined": false
+        },
+        {
+          "text": "my mom",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "74b94b80-61fa-43d5-a3c8-3de8ea436e6e",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "The battle between ",
+          "userDefined": false
+        },
+        {
+          "text": "hamza",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " and ",
+          "userDefined": false
+        },
+        {
+          "text": "dweik",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "b5aee136-9994-4fb1-be36-72e225b61abf",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "When ",
+          "userDefined": false
+        },
+        {
+          "text": "he",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " killed ",
+          "userDefined": false
+        },
+        {
+          "text": "him",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "152b0c03-72b4-4962-af74-360f2afdde9c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "My favorite fight was ",
+          "userDefined": false
+        },
+        {
+          "text": "Yoriichi",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " beating ",
+          "userDefined": false
+        },
+        {
+          "text": "Muzan",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "ba9515a1-1683-4f73-8212-3c394f7e959b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "It was epic when ",
+          "userDefined": false
+        },
+        {
+          "text": "Rengoku",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " almost killed ",
+          "userDefined": false
+        },
+        {
+          "text": "Akaza",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "7f63b6e7-2c70-418a-a4eb-0c7fdc3841a1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "It was so cool when ",
+          "userDefined": false
+        },
+        {
+          "text": "Shahmir",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " killed ",
+          "userDefined": false
+        },
+        {
+          "text": "Steve Jobs",
+          "userDefined": true,
+          "alias": "x",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "67512ced-4b97-4ed3-b66b-3e894ed7bbba",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

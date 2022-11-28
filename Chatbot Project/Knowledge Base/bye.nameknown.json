@@ -1,0 +1,153 @@
+{
+  "id": "bb8dcf1d-9dcf-441a-9b5d-45d3bb13cbd2",
+  "name": "bye.nameknown",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "nameknown"
+  ],
+  "contexts": [
+    "nameknown"
+  ],
+  "endInteraction": true,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "Bye!! Let's chat more soon #nameknown.person ❤️"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Take care",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "4134d51f-6845-417f-9258-b644802d9d16",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Nice talking to you",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "be22f45b-9394-4017-864c-f048efa40067",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Sayonara",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "fa153780-a81d-4994-b71a-97d58e617124",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Adios",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "925fa8e9-2908-47e6-a313-cf4b3d4a1497",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I'll leave now",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "0554e015-fcbb-4102-9ea3-f645fd5653f6",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "goodbye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "4945684b-7d7c-440f-a817-84769a532994",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see you later",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "eb1d8b0f-54b5-4d22-81f9-0c2dea5c0872",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see ya",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "aa03a3eb-423c-43e6-8f76-329a3ebb470d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "437e2b9b-4f30-4db6-8912-e5d1d5efd368",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}
