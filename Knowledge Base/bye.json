@@ -1,0 +1,496 @@
+{
+  "id": "cc946370-fe4f-48ef-b627-30685ea3b5e6",
+  "name": "bye",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": true,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "smalltalk.greetings.bye",
+      "affectedContexts": [],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "See you soon!",
+            "Bye-bye!",
+            "Till next time!",
+            "Bye."
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "hope",
+          "userDefined": true
+        },
+        {
+          "text": " to see you later",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "05cb8402-30e4-48a2-838d-3c1cb6359bde",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "that's ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "userDefined": true
+        },
+        {
+          "text": " goodbye",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "1046a620-6376-411a-807e-2b08215b5ff1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "now bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "84e48c78-03a7-41b6-bba0-4c3d7defdffa",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "okay bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "6a4fb789-dcbe-4ced-8fc3-4c43f95d1519",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "alright bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "f9887f82-1c68-4d49-9b23-2f7170e2436e",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye bye see you",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "543ea6a1-680d-4acc-8256-a904afabd8a8",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see ya",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "24a0b66e-6de1-4ae4-80c1-4cd173d7ad2b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "goodbye see you later",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "4242ac42-8f24-490b-aa69-b15c616620ba",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "okay",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "thank you",
+          "userDefined": true
+        },
+        {
+          "text": " bye",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "2755c07b-9e30-482a-9ffe-e10e4303946e",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "get",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "lost",
+          "userDefined": true
+        }
+      ],
+      "count": 0,
+      "id": "3c313de6-2e20-41f6-812a-2dae5d9517ad",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye-bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "4282e193-b0f2-4c45-bae6-a921d408b5d1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "b879291e-6da7-451d-97b1-6e3232b207a1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "goodbye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "37757679-5fd6-4b4c-b050-0f1f953c067a",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye bye see you soon",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "5ba0593f-1b28-485f-9a2b-5595a33a425c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "okay see you later",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "091148fd-b705-4dad-abc7-17dcfdd7717c",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "go to bed",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "a5cec387-b7b3-4aa7-8757-8a3d2eab9404",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see you tomorrow",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "2e6f63c6-71f1-40b4-a30d-5fa499cf601f",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye for now",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "30e796e9-b100-4bce-954f-232c4ebf4ba0",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see you soon",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "3dd9c5e5-5f12-4ece-ad3a-04e8376d3c0d",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "bye bye take care",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "5bb58664-f214-48bd-9575-5ec41437f8dd",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "you can go now",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "3b722a9f-3a03-4913-83d0-ac0cac0684a0",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I ",
+          "userDefined": false
+        },
+        {
+          "text": "must",
+          "userDefined": true
+        },
+        {
+          "text": " go",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "e06d1676-3cf0-4385-829f-9b22b93b03a4",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "ok bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "2a7b7664-dd31-4938-b321-ce1670e84daa",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "good",
+          "userDefined": true
+        },
+        {
+          "text": " bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "683c9646-e0a9-4cf2-8d5e-42de517f4cfd",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "till next time",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "8efb540e-c23d-41a7-976e-fa862ceaf546",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I said bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "aa3101a8-1602-46c0-8d4d-f37f76d232d1",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "see you",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "61b0b868-e7e6-4398-a2fa-c32bc81610c9",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "thanks bye bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "f418cc23-2ce4-4003-ace9-00eeb6b80c1b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "talk to you later",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "e76e32ad-49da-4927-a0d6-d31046bea817",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "never mind bye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "81a3061c-4cb2-491b-be9a-ed866e16249f",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "goodbye for now",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "0618d052-0d67-46b9-90ca-d53c4eff1b42",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "leave",
+          "userDefined": true
+        },
+        {
+          "text": " me alone",
+          "userDefined": false
+        }
+      ],
+      "count": 1,
+      "id": "d515ad52-579b-44a7-97f3-6d7065e45131",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "that's ",
+          "userDefined": false
+        },
+        {
+          "text": "all",
+          "userDefined": true
+        },
+        {
+          "text": " goodbye",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "5c76acf6-fd13-4134-8f91-95a9a170b047",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

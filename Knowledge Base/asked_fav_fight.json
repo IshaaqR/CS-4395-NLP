@@ -1,0 +1,58 @@
+{
+  "id": "9abd3a9c-9484-4165-bf04-6ffa7a79497e",
+  "name": "asked_fav_fight",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [],
+  "contexts": [],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "asked_fav_fight-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "MANGA SPOILERS INCOMING!!! The fight with Kokushibo and all the different hashira was so cool!! What was your favorite fight??"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "What is your favorite fight?",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "2c305ebe-c3ba-4939-ae86-a41d45feee87",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

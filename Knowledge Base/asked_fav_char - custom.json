@@ -1,0 +1,136 @@
+{
+  "id": "fc685274-0bb2-4302-aeac-d355c0d43924",
+  "name": "asked_fav_char - custom",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "asked_fav_char-followup"
+  ],
+  "contexts": [
+    "asked_fav_char-followup"
+  ],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": "03cd66e2-c775-45ab-b0f6-938af5ace69f",
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "asked_fav_char.asked_fav_char-custom",
+      "affectedContexts": [
+        {
+          "name": "asked_fav_char-custom-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "character",
+          "dataType": "@sys.person",
+          "isList": false,
+          "required": false,
+          "prompts": [],
+          "value": "$character",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "I love $character too ❤️. What do you like about $character?"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": "03cd66e2-c775-45ab-b0f6-938af5ace69f",
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "I like ",
+          "userDefined": false
+        },
+        {
+          "text": "Nezuko",
+          "userDefined": false,
+          "alias": "character",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " so much",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "82ab0ea7-b6e8-410f-bb39-2e2b411d71cf",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "Nezuko",
+          "userDefined": false,
+          "alias": "character",
+          "meta": "@sys.person"
+        },
+        {
+          "text": " is so cute",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "c00fefe4-2295-4410-8135-ac424de0b5ab",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "My favorite character is ",
+          "userDefined": false
+        },
+        {
+          "text": "Nezuko",
+          "userDefined": true,
+          "alias": "character",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "cc98d673-c4a1-43b9-814a-7cff859017fb",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "nezuko",
+          "userDefined": true,
+          "alias": "character",
+          "meta": "@sys.person"
+        }
+      ],
+      "count": 0,
+      "id": "3d9abdeb-03b7-4c92-8d2e-1048f14c083d",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}
